@@ -1,4 +1,4 @@
-#include "bitCalLabFunc.h"
+#include "funcs.h"
 #include <stdio.h>
 
 void strToAr(char str[16], int *bitNumber) {
