@@ -18,7 +18,7 @@ void strToAr(char str[16], int *bitNumber) {
 }
 
 void printBin(int *binNum) {
-    for(int i = 0; i <= 16; ++i) {
+    for(int i = 0; i < 16; ++i) {
         printf("%d", binNum[i]);
     }
     printf("\n");
