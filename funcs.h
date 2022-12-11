@@ -1,5 +1,5 @@
-#ifndef BITCALLABFUNC_H
-#define BITCALLABFUNC_H
+#ifndef FUNCS_H
+#define FUNCS_H
 
 void strToAr(char str[16], int *bitNumber);
 
