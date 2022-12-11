@@ -1,4 +1,4 @@
-#include "bitCalLabFunc.h"
+#include "funcs.h"
 #include <stdio.h>
 #include <stdlib.h>
 
